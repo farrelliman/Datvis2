@@ -1,0 +1,16 @@
+﻿Rank;Team/NOC;latitude;longitude;Gold Medal;Silver Medal;Bronze Medal;Total;Rank by Total;NOCCode;Continent
+1;United States;37.0902;-95.7129;39;41;33;113;1;USA;North America
+2;China;35.8617;104.1954;38;32;18;88;2;CHN;Asia
+3;Japan;36.2048;138.2529;27;14;17;58;5;JPN;Asia
+4;United Kingdom;55.3781;-3.436;22;21;22;65;4;GBR;Europe
+5;Russa;61.524;105.3188;20;28;23;71;3;ROC;Europe/Asia
+6;Australia;-25.27;133.775;17;7;22;46;6;AUS;Australia
+7;Netherlands;52.1326;5.2913;10;12;14;36;9;NED;Europe
+8;France;46.2276;2.2137;10;12;11;33;10;FRA;Europe
+9;Germany;51.1657;10.4515;10;11;16;37;8;GER;Europe
+10;Italy;41.8719;12.5674;10;10;20;40;7;ITA;Europe
+11;Canada;56.1304;-106.3468;7;6;11;24;11;CAN;North America
+12;Brazil;-14.235;-51.9252;7;6;8;21;12;BRA;South America
+13;New Zealand;-40.9006;174.886;7;6;7;20;13;NZL;Australia
+14;Cuba;21.5218;-77.7812;7;3;5;15;18;CUB;North America
+15;Hungary;47.1625;19.5033;6;7;7;20;13;HUN;Europe
